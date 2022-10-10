@@ -1,1 +1,1 @@
-# PERN_Shopping_app
+Shopping App - Postgresql, Express, React, Nodejs + React-Bootstrap, Redux, Redux-thunk
